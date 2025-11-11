@@ -122,8 +122,8 @@ The system recommends 5 similar jackets from the dataset with matching style, te
 ## 🔍 How to Run the Project
 
 1. Open [Google Colab](https://colab.research.google.com/).
-2. Upload your dataset ZIP file (e.g., `fashion_images.zip`).
-   Dataset Link : https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small
+2. Upload your dataset ZIP file (e.g., `fashion_images.zip`). <br>
+   Dataset Link : [Fashion Image Recommendation System](https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small)
 3. Run each cell in the notebook sequentially.
 4. When prompted, upload any test fashion image (e.g., `.jpeg`, `.jpg`, `.png`).
 5. View the top 5 visually similar recommendations.
